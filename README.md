@@ -16,3 +16,8 @@ The program will display the question and the workings
 
 The format of list of resistor values that the the program can input.
 The solution to this problem the program will only accept you resistor values seperated by a comma 
+
+## How to run the program
+
+1. #### `Open the program with the IDE that can excute java code. Make sure JDK is installed on your machine`
+1. #### `Run the testcase by opening the test classes then select the run button `
