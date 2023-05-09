@@ -4,10 +4,12 @@ This project is a Java Console Application to that can be used to calacuate elec
 ## Functionalities:
 
 1. Resistance calculation:
+
 The program  will allows the user to select the circuit type i.e Series or Parallel circuit.
 The program will take the resistors values as string then calculate the total resistance.
 
 2. Displaying Useful Information:
+
 The program will display the question and the workings
 
 3. The complexitity of the project
